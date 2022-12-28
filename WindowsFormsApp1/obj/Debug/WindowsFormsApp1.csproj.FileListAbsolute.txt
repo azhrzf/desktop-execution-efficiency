@@ -1,0 +1,15 @@
+D:\Tugas Kuliah\Tugas dan Materi\[5] Semester\[5] Perancangan dan Pembangunan Perangkat Lunak\Tugas\Semesta\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Tugas Kuliah\Tugas dan Materi\[5] Semester\[5] Perancangan dan Pembangunan Perangkat Lunak\Tugas\Semesta\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Tugas Kuliah\Tugas dan Materi\[5] Semester\[5] Perancangan dan Pembangunan Perangkat Lunak\Tugas\Semesta\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Tugas Kuliah\Tugas dan Materi\[5] Semester\[5] Perancangan dan Pembangunan Perangkat Lunak\Tugas\Semesta\WindowsFormsApp1\bin\Debug\WpfControlLibrary1.dll
+D:\Tugas Kuliah\Tugas dan Materi\[5] Semester\[5] Perancangan dan Pembangunan Perangkat Lunak\Tugas\Semesta\WindowsFormsApp1\bin\Debug\WpfControlLibrary1.pdb
+D:\Tugas Kuliah\Tugas dan Materi\[5] Semester\[5] Perancangan dan Pembangunan Perangkat Lunak\Tugas\Semesta\WindowsFormsApp1\bin\Debug\WpfControlLibrary1.dll.config
+D:\Tugas Kuliah\Tugas dan Materi\[5] Semester\[5] Perancangan dan Pembangunan Perangkat Lunak\Tugas\Semesta\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\Tugas Kuliah\Tugas dan Materi\[5] Semester\[5] Perancangan dan Pembangunan Perangkat Lunak\Tugas\Semesta\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+D:\Tugas Kuliah\Tugas dan Materi\[5] Semester\[5] Perancangan dan Pembangunan Perangkat Lunak\Tugas\Semesta\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\Tugas Kuliah\Tugas dan Materi\[5] Semester\[5] Perancangan dan Pembangunan Perangkat Lunak\Tugas\Semesta\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Tugas Kuliah\Tugas dan Materi\[5] Semester\[5] Perancangan dan Pembangunan Perangkat Lunak\Tugas\Semesta\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Tugas Kuliah\Tugas dan Materi\[5] Semester\[5] Perancangan dan Pembangunan Perangkat Lunak\Tugas\Semesta\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Tugas Kuliah\Tugas dan Materi\[5] Semester\[5] Perancangan dan Pembangunan Perangkat Lunak\Tugas\Semesta\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+D:\Tugas Kuliah\Tugas dan Materi\[5] Semester\[5] Perancangan dan Pembangunan Perangkat Lunak\Tugas\Semesta\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Tugas Kuliah\Tugas dan Materi\[5] Semester\[5] Perancangan dan Pembangunan Perangkat Lunak\Tugas\Semesta\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
