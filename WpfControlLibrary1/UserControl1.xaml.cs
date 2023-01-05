@@ -169,6 +169,7 @@ namespace WpfControlLibrary1
             nextAdvance = true;
 
             TextBoxRunTime.Visibility = nextAdvance ? Visibility.Visible : Visibility.Collapsed;
+            TextBlockTestingTime.Visibility = nextAdvance ? Visibility.Visible : Visibility.Collapsed;
             ButtonTestApplication.Visibility = nextAdvance ? Visibility.Visible : Visibility.Collapsed;
         }
 

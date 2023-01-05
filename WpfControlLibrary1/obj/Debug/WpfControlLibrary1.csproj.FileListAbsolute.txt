@@ -26,3 +26,4 @@ D:\Tugas Kuliah\Tugas dan Materi\[5] Semester\[5] Perancangan dan Pembangunan Pe
 D:\Tugas Kuliah\Tugas dan Materi\[5] Semester\[5] Perancangan dan Pembangunan Perangkat Lunak\Tugas\Semesta\WpfControlLibrary1\obj\Debug\WpfControlLibrary1.csproj.CopyComplete
 D:\Tugas Kuliah\Tugas dan Materi\[5] Semester\[5] Perancangan dan Pembangunan Perangkat Lunak\Tugas\Semesta\WpfControlLibrary1\obj\Debug\WpfControlLibrary1.dll
 D:\Tugas Kuliah\Tugas dan Materi\[5] Semester\[5] Perancangan dan Pembangunan Perangkat Lunak\Tugas\Semesta\WpfControlLibrary1\obj\Debug\WpfControlLibrary1.pdb
+D:\Tugas Kuliah\Tugas dan Materi\[5] Semester\[5] Perancangan dan Pembangunan Perangkat Lunak\Tugas\Semesta\WpfControlLibrary1\obj\Debug\Dictionary1.baml
