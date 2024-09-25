@@ -1,8 +1,8 @@
-# Desktop Application Efficiency Tracker
+# Desktop Execution Application Efficiency Tracker
 
 ## Overview
 
-The **Desktop Application Efficiency Tracker** is a powerful tool designed to monitor and test the efficiency of desktop applications while they are running. It provides valuable insights into various performance metrics, including:
+The **Desktop Execution Application Efficiency Tracker** is a powerful tool designed to monitor and test the efficiency of desktop applications while they are running. It provides valuable insights into various performance metrics, including:
 
 - **CPU Usage**
 - **Physical Memory Usage**
